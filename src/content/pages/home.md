@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "RestorationXpress  | Restoration Services in Davie, FL"
-h1: "Restoration Services in Davie"
-meta_description: "RestorationXpress provides water, fire, mold, and storm damage restoration across Davie and surrounding areas. Call (954) 932-5420."
-primary_keyword: "restoration services davie"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Davie, FL | RestorationXpress"
+h1: "Water Damage Restoration in Davie, FL"
+meta_description: "RestorationXpress provides water damage restoration in Davie, FL. Call (954) 932-5420 now."
+primary_keyword: "water damage restoration davie"
+secondary_keywords: ["best restoration company in davie", "restoration company davie", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "8aee571efd0fab7f"
