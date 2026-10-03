@@ -16,6 +16,7 @@ faq: [{"question": "Can mold grow inside walls where I can't see it?", "answer":
 published_at: "2026-07-15"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Mold can begin colonizing wet materials in as little as **24 to 48 hours** after water exposure. That's not a scare tactic, it's the biology. Mold spores are already floating in every indoor environment; all they need is moisture, a surface to eat (drywall, wood, carpet backing), and temperatures above roughly 40°F. South Florida's humidity means those last two conditions are almost always pre-loaded. If you're reading this because something got wet in the last day or two, the clock is already running.
 

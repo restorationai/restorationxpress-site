@@ -16,6 +16,7 @@ faq: [{"question": "Can I start cleaning up before the insurance adjuster comes 
 published_at: "2026-07-14"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Before you dial your insurance company after a storm, stop. The next 30 minutes matter more than most homeowners realize. Adjusters work from documentation, photos, written descriptions, dates, and dollar estimates. If you call without that foundation, you risk a lower settlement, a delayed claim, or a denial based on a techniceck. This checklist walks you through exactly what to gather, document, and do before that first conversation with your insurer, so you walk in prepared instead of reactive.
 

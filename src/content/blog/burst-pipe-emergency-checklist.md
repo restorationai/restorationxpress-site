@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a burst pipe?",
 published_at: "2026-07-08"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 When a pipe bursts, you have roughly minutes, not hours, before water migrates into wall cavities, soaks subfloor, and sets the stage for mold. The short version: shut off the water at the main valve, cut power to affected rooms at the breaker, document everything with your phone camera, then start removing standing water. The steps below walk through exactly how to do each of those things, what mistakes to skip, and how to know when the damage has moved beyond DIY territory.
 

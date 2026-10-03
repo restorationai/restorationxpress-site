@@ -17,6 +17,7 @@ faq: [{"question": "How long do I have to file a fire damage claim in Florida?",
 published_at: "2026-09-20"
 services: []
 rendered: true
+author: "Jaziel Nahum"
 ---
 **TL;DR:** After a house fire in Miramar, file your claim within 24-48 hours, document every room with photos and video before anything is touched, and get a licensed restoration contractor to write a scope of damages before the insurance adjuster visits. Policies cover sudden fire loss but routinely underpay when documentation is weak. The steps below walk you through the process from the first call to final settlement.
 

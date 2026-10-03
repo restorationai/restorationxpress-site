@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a leaking 
 published_at: "2026-07-06"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Homeowners insurance *sometimes* covers water damage, but whether your specific claim gets paid depends almost entirely on the **source** of the water, not the amount of damage. The short answer: sudden, accidental water damage (a burst pipe, an appliance that fails overnight, a roof torn open by a storm) is typically covered. Gradual damage (a slow drip under the sink you ignored for six months, long-term humidity seeping through a foundation wall) is almost always excluded. Understanding that one distinction before you file, or before you call a plumber, can save you thousands.
 

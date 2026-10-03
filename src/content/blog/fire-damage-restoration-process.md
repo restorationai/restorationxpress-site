@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take from st
 published_at: "2026-07-17"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 A house fire leaves behind more than charred walls. Even after the flames are out and the fire trucks are gone, you're dealing with smoke-saturated insulation, soot embedded in every porous surface, water damage from suppression efforts, and structural materials that may look intact but aren't. The restoration process typically unfolds in six distinct phases, and understanding each one helps you ask the right questions, avoid costly mistakes, and set realistic expectations for how long it takes to get your home back.
 

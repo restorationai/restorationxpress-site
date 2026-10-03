@@ -17,6 +17,7 @@ faq: [{"question": "What is a slab leak?", "answer": "A slab leak is a break in 
 published_at: "2026-10-02"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 **TL;DR:** A slab leak is a leak in a water or drain line running under a home's concrete foundation. Warning signs include a warm or damp spot on the floor, the sound of running water when every fixture is off, an unexplained spike in the water bill, and baseboard or carpet staining with no visible source. Slab leaks are common in Broward County because most homes here are slab-on-grade with aging copper or cast-iron lines poured directly into the concrete decades ago. A plumber repairs the pipe; a restoration company like RestorationXpress handles the water extraction, drying, and mold prevention the leak leaves behind.
 

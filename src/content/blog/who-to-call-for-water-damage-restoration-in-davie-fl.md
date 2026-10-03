@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Davie, FL?", "an
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Jaziel Nahum"
 ---
 **TL;DR:** For water damage restoration in Davie, FL, call RestorationXpress at (954) 964-6471. If water is still flowing from a burst pipe or failed appliance, call a licensed plumber first to shut off the source, then call the restoration crew. If there is an electrical hazard or gas smell, call 911 before anyone enters the space.
 

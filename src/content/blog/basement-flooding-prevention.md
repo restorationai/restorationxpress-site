@@ -16,6 +16,7 @@ faq: [{"question": "How much rain does it take to flood a basement or below-grad
 published_at: "2026-07-21"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 South Florida basements are rare, but if your Davie home has a below-grade space, a utility room, or even a low-lying slab area that collects water, you already know how fast a heavy afternoon storm can turn into a soggy disaster. The good news: most basement and below-grade flooding is preventable with a handful of targeted fixes done before the wet season peaks. Here are eight specific things you can do right now, before the next band of rain rolls in off the Atlantic.
 

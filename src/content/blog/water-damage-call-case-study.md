@@ -17,6 +17,7 @@ faq: [{"question": "How fast should I address water damage after a water acciden
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Jaziel Nahum"
 ---
 When a water accident hits a home, most people aren't shopping for the cheapest bid. They want someone who knows the process cold and who doesn't disappear once the wet-vac is packed up. That's the situation behind a recent five-star review left for RestorationXpress, and it's worth unpacking because it names two things homeowners rarely get in writing: personalized attention, and a company that stays engaged past the first visit.
 

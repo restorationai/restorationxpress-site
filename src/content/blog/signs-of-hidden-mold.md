@@ -16,6 +16,7 @@ faq: [{"question": "How long does mold take to grow after a water leak?", "answe
 published_at: "2026-07-10"
 services: ["mold-remediation"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Hidden mold doesn't announce itself. It grows behind drywall, under flooring, inside HVAC ducts, and in crawl spaces, often for weeks or months before anyone notices. By the time you smell something musty or see a stain, a colony can already cover several square feet. South Florida's humidity makes this worse: Davie and the surrounding Broward County area routinely sit above 70% relative humidity, which is well past the 60% threshold where mold begins to colonize porous materials. Here are seven specific signs to look for, and a clear path forward once you find them.
 

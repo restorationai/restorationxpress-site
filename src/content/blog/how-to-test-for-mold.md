@@ -16,6 +16,7 @@ faq: [{"question": "Can a DIY mold test kit tell me what type of mold I have?", 
 published_at: "2026-07-10"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Testing for mold starts with your nose and eyes, not a kit. If you smell something musty, like wet cardboard or a damp basement, and you've had a recent leak, condensation problem, or flooding, there's a good chance mold is already growing somewhere nearby. DIY test kits can confirm that mold spores exist in your air (they almost always do), but they can't tell you *where* the colony is, how large it is, or whether the species present is a health concern. A professional inspection does all three. Here's how to think through both options before spending money on either.
 

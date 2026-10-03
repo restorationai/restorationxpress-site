@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Florida?", "a
 published_at: "2026-09-08"
 services: []
 rendered: true
+author: "Jaziel Nahum"
 ---
 **TL;DR:** Water damage restoration in Florida typically costs $1,500 to $8,000 for most residential losses. Small, clean-water jobs (a dishwasher line, a supply hose) run $1,200 to $3,500. Larger losses involving contaminated water, finished basements, or multiple rooms can reach $10,000 to $20,000 or more. The single biggest cost driver is how fast you call, every hour standing water sits, it soaks deeper into framing, drywall, and flooring and pushes the job into a higher damage class.
 

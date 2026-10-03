@@ -16,6 +16,7 @@ faq: [{"question": "How long does smoke odor last in a house if nothing is done?
 published_at: "2026-07-09"
 services: ["smoke-damage-restoration", "fire-damage-restoration"]
 rendered: true
+author: "Jaziel Nahum"
 ---
 Smoke odor doesn't wash out. It doesn't air out. It soaks into drywall, insulation, wood framing, HVAC ductwork, and soft furnishings at a molecular level, and the longer it sits, the deeper it goes. Professional smoke odor removal works because it attacks those molecules directly, using a combination of thermal fogging, hydroxyl or ozone generation, encapsulants, and deep-cleaning protocols that consumer products simply can't replicate. DIY methods, candles, sprays, vinegar, baking soda, mask the odor temporarily, but within days or weeks the smell returns, often stronger, because the source was never neutralized.
 
