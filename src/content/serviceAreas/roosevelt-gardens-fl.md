@@ -1,0 +1,23 @@
+---
+archetype: "service-area"
+title: "Restoration Services in Roosevelt Gardens, FL | RestorationXpress "
+h1: "Restoration Services in Roosevelt Gardens"
+meta_description: "Serving Roosevelt Gardens, FL with water, fire, mold, and storm damage restoration. Experienced team. Call (954) 964-6471."
+primary_keyword: "restoration services roosevelt gardens"
+secondary_keywords: ["roosevelt gardens restoration company", "damage restoration roosevelt gardens", "roosevelt gardens disaster restoration"]
+search_intent: "local_commercial"
+priority: 4.8
+plan_hash: "f71996118289442f"
+generated_at: "2026-10-03T14:21:14.941255+00:00"
+manual_override: false
+internal_links: ["/service-areas/", "/contact/", "/service-areas/roosevelt-gardens-fl/water-damage-restoration/", "/service-areas/davie-fl/", "/service-areas/aventura-fl/", "/service-areas/boulevard-gardens-fl/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Roosevelt Gardens"}]
+faq: []
+area_slug: "roosevelt-gardens-fl"
+city: "Roosevelt Gardens"
+state: "FL"
+primary: false
+---
+<!-- Page body not yet generated. Run `build_site.py render --slug restorationxpress` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
+
+Placeholder content for Restoration Services in Roosevelt Gardens.
