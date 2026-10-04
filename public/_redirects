@@ -61,3 +61,15 @@
 /service-areas/weston-fl/water-cleanup/ /service-areas/weston-fl/water-damage-restoration/ 301
 /service-areas/wilton-manors-fl/water-cleanup /service-areas/wilton-manors-fl/water-damage-restoration/ 301
 /service-areas/wilton-manors-fl/water-cleanup/ /service-areas/wilton-manors-fl/water-damage-restoration/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/our-services/water-damage /services/water-damage-restoration/ 301
+/our-services/water-damage/ /services/water-damage-restoration/ 301
+/reviews-2 /reviews/ 301
+/reviews-2/ /reviews/ 301
+/our-services/fire-damage /services/fire-damage-restoration/ 301
+/our-services/fire-damage/ /services/fire-damage-restoration/ 301
+/waterflood-restoration-services-lp /services/water-damage-restoration/ 301
+/waterflood-restoration-services-lp/ /services/water-damage-restoration/ 301
