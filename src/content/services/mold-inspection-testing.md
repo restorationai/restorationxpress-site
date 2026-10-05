@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/", "/blog/how-to-test-for-mold/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "mold-inspection-testing"}]
 faq: []
 service_slug: "mold-inspection-testing"
-service_display: "mold-inspection-testing"
+service_display: "Mold Inspection and Testing"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug restorationxpress` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 

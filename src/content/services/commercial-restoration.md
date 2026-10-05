@@ -14,7 +14,7 @@ internal_links: ["/services/", "/contact/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "commercial-restoration"}]
 faq: []
 service_slug: "commercial-restoration"
-service_display: "commercial-restoration"
+service_display: "Commercial Restoration"
 ---
 <!-- Page body not yet generated. Run `build_site.py render --slug restorationxpress` to populate. The frontmatter above is the source-of-truth metadata from the plan. -->
 
