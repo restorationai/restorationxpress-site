@@ -41,7 +41,7 @@ export const brand = {
   certifications: [] as string[],
   trustBadges: ["Licensed & Insured", "24/7 Emergency Response", "Serving Broward, Palm Beach & Miami-Dade Since 2011", "Insurance Billing Accepted"] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://maps.google.com/maps?cid=16857264021556416183", "https://www.homeadvisor.com/rated.RestorationXpressLLC.85203543.html", "https://www.facebook.com/restorationxpress/", "https://homeguide.com/fl/davie/water-damage-restoration/restorationxpress-_VgGv-Adz"] as string[],
+  sameAsUrls: ["https://www.facebook.com/restorationxpress/", "https://maps.google.com/maps?cid=16857264021556416183", "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?InquiryType=EntityName&InquiryDirectionType=PreviousRecord&SearchTerm=RESTORATION%20WELL%20LLC&SearchNameOrder=RESTORATIONXPRESSWESTFLORIDA%20L130001451140&ListNameOrder=RESTORATIONWELL%20L180001624880&Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord", "https://homeguide.com/fl/davie/water-damage-restoration/restorationxpress-_VgGv-Adz"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
