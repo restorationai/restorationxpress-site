@@ -40,7 +40,7 @@ The scope of loss document that comes out of this assessment drives everything: 
 
 ## Phase 2 – Water Extraction and Structural Drying
 
-This surprises most homeowners: a significant portion of early fire restoration work is actually water damage restoration. Firefighting hoses deliver hundreds of gallons per minute. That water saturates flooring, wicks into wall cavities, and pools in basements or crawl spaces.
+This surprises most homeowners: a significant portion of early fire restoration work is actually [water damage restoration](/services/water-damage-restoration/). Firefighting hoses deliver hundreds of gallons per minute. That water saturates flooring, wicks into wall cavities, and pools in basements or crawl spaces.
 
 Extraction comes first, truck-mounted vacuums pull standing water from hard surfaces. Then industrial air movers and dehumidifiers run continuously, often for three to five days, to bring structural moisture content down to acceptable levels. Technicians monitor readings daily with pin and pinless moisture meters. Drying isn't finished when the surface feels dry; it's finished when the framing and subfloor readings are within normal range for the region.
 

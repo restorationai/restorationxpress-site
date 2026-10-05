@@ -56,7 +56,7 @@ This one sounds basic, but it matters. If a pipe bursts or an appliance fails du
 
 ## What to Do If You Still Get Water
 
-Even with all eight of these measures in place, a severe storm or unexpected plumbing failure can still result in standing water. If that happens, the clock matters more than most people realize. Mold can begin colonizing wet drywall, insulation, and wood framing within 24 to 48 hours in South Florida's humidity, faster than in most of the country. Removing standing water quickly, running dehumidifiers, and drying structural materials thoroughly are the steps that separate a manageable cleanup from a mold remediation project.
+Even with all eight of these measures in place, a severe storm or unexpected plumbing failure can still result in standing water. If that happens, the clock matters more than most people realize. Mold can begin colonizing wet drywall, insulation, and wood framing within 24 to 48 hours in South Florida's humidity, faster than in most of the country. Removing standing water quickly, running dehumidifiers, and drying structural materials thoroughly are the steps that separate a manageable cleanup from a [mold remediation](/services/mold-remediation/) project.
 
 If the water is more than a surface puddle, if it's touched drywall or insulation, or if you're not sure where it came from, it's worth calling a water damage restoration professional before you start tearing anything out. Restoration teams use moisture meters and thermal cameras to find water that's hidden inside walls and under flooring, the kind you can't see but that causes the most damage over time.
 

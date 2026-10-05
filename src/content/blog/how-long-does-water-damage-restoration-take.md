@@ -18,7 +18,7 @@ services: ["water-damage-restoration"]
 rendered: true
 author: "Jaziel Nahum"
 ---
-Most water damage restoration jobs take **3 to 5 days** from the moment a crew arrives to the moment the structure is dry enough for repairs. But that number can stretch to 2–3 weeks, or compress to 48 hours, depending on how much water got in, how long it sat, and what materials it soaked into. The single biggest factor in your timeline isn't the size of the flood. It's how fast extraction and drying start. Every hour standing water sits in your home, it migrates deeper into subfloors, wall cavities, and insulation, and the clock on potential mold growth starts at around 24–48 hours.
+Most [water damage restoration](/services/water-damage-restoration/) jobs take **3 to 5 days** from the moment a crew arrives to the moment the structure is dry enough for repairs. But that number can stretch to 2–3 weeks, or compress to 48 hours, depending on how much water got in, how long it sat, and what materials it soaked into. The single biggest factor in your timeline isn't the size of the flood. It's how fast extraction and drying start. Every hour standing water sits in your home, it migrates deeper into subfloors, wall cavities, and insulation, and the clock on potential mold growth starts at around 24–48 hours.
 
 ## What Actually Controls the Timeline
 

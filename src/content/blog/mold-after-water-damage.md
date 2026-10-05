@@ -46,7 +46,7 @@ If the water event just happened, or you've just discovered it, here's the seque
 5. **Document everything.** Photograph the source, the affected materials, and any visible damage before you move or remove anything. This matters for insurance claims.
 6. **Pull up wet carpet if you can.** Carpet and pad sitting in water for more than a few hours is almost always a loss. Getting it up and out of the space removes a major mold food source and lets the subfloor begin drying.
 
-What you're trying to do in this window is reduce the moisture content of structural materials before it crosses the threshold where mold becomes inevitable. Professional water damage restoration uses moisture meters and thermal imaging to find water that's already migrated behind walls, places a fan on the floor won't reach.
+What you're trying to do in this window is reduce the moisture content of structural materials before it crosses the threshold where mold becomes inevitable. Professional [water damage restoration](/services/water-damage-restoration/) uses moisture meters and thermal imaging to find water that's already migrated behind walls, places a fan on the floor won't reach.
 
 ## What NOT to Do After a Water Leak
 

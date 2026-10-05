@@ -68,7 +68,7 @@ If water has been sitting for more than a few hours, has soaked into walls or fl
 
 Water moves through building materials faster than it looks. A wet baseboard means the wall cavity behind it is wet. A damp ceiling tile means the insulation above it is saturated. Within 24 to 48 hours in Florida's heat and humidity, wet organic material, drywall paper, wood framing, insulation, can begin supporting mold growth. Once mold colonizes inside a wall cavity, the remediation cost is significantly higher than the original water damage mitigation would have been.
 
-A professional water damage restoration crew brings equipment that changes the math: truck-mounted extractors that pull water out of carpet and pad in a single pass, industrial dehumidifiers that process hundreds of pints per day (a household dehumidifier processes 30–50 pints on a good day), and thermal imaging cameras that find moisture behind walls without tearing them open unnecessarily.
+A professional [water damage restoration](/services/water-damage-restoration/) crew brings equipment that changes the math: truck-mounted extractors that pull water out of carpet and pad in a single pass, industrial dehumidifiers that process hundreds of pints per day (a household dehumidifier processes 30–50 pints on a good day), and thermal imaging cameras that find moisture behind walls without tearing them open unnecessarily.
 
 They also produce the **drying logs and moisture readings** that insurance adjusters require to close a claim. If you dry the space yourself and can't document that it reached the target grain levels specified in the IICRC S500 standard, your insurer may dispute whether the space was properly dried, and hold you responsible for any secondary damage.
 

@@ -55,7 +55,7 @@ Some situations don't need a $30 test to confirm there's a problem. Go straight 
 2. **You've had standing water or a slow leak that went unnoticed for more than 24–48 hours.** Mold can begin colonizing wet drywall, insulation, and wood within 24 to 72 hours under warm, humid conditions, which describes most of the year in South Florida.
 3. **Someone in the household has unexplained respiratory symptoms, recurring sinus issues, or worsening asthma** that correlate with time spent at home. This isn't a medical diagnosis, but it's a reason to get environmental data.
 4. **You're buying or selling a home** and a prior water loss is disclosed. An independent inspection protects both parties.
-5. **Your insurance company requires documentation** before approving a mold remediation claim. A DIY kit result will not satisfy that requirement.
+5. **Your insurance company requires documentation** before approving a [mold remediation](/services/mold-remediation/) claim. A DIY kit result will not satisfy that requirement.
 
 ## How to Prepare for a Mold Inspection (and What Not to Do)
 

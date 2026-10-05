@@ -87,7 +87,7 @@ The EPA's general guideline is that mold covering more than 10 square feet warra
 
 In South Florida, the combination of humidity and warm temperatures year-round means mold can establish and spread faster than in drier climates. A home in Davie that sustains water intrusion, whether from a plumbing failure, a hurricane, or chronic roof issues, can develop significant mold growth in days, not weeks. That timeline matters when you're deciding whether to wait and watch or act.
 
-Professional mold remediation involves containment of the affected area, removal of compromised materials (not just surface cleaning), HEPA air filtration, and post-remediation testing to confirm clearance. If you want to understand what that process looks like, the [mold remediation page](/mold-remediation) on this site walks through it in detail.
+Professional [mold remediation](/services/mold-remediation/) involves containment of the affected area, removal of compromised materials (not just surface cleaning), HEPA air filtration, and post-remediation testing to confirm clearance. If you want to understand what that process looks like, the [mold remediation page](/mold-remediation) on this site walks through it in detail.
 
 ## The Bottom Line
 

@@ -62,7 +62,7 @@ Even if a company checks out on paper, pay attention when the crew shows up.
 - **They pressure you to sign before they assess.** A professional will walk the damage, take moisture readings, and explain what they found before asking for authorization to begin.
 - **They can't explain their drying plan.** Proper water damage mitigation follows a documented drying protocol, how many air movers, how many dehumidifiers, target moisture levels, and a schedule for re-checking readings. If the crew can't articulate this, the equipment may sit in your house for two weeks without actually solving the problem.
 - **They recommend tearing out materials immediately without documentation.** Before anything is removed, it should be photographed and documented for your insurance claim. Rushing demolition before documentation is a red flag for either incompetence or fraud.
-- **They're vague about mold testing.** If you're hiring for mold remediation, the company doing the remediation should not also be the one doing the post-clearance testing. Those should be separate parties to avoid a conflict of interest.
+- **They're vague about mold testing.** If you're hiring for [mold remediation](/services/mold-remediation/), the company doing the remediation should not also be the one doing the post-clearance testing. Those should be separate parties to avoid a conflict of interest.
 - **They don't pull permits when required.** In Broward County, certain types of reconstruction work after water or fire damage require permits. A contractor who skips permits to move faster is creating a problem you'll discover when you try to sell the house.
 
 ---
