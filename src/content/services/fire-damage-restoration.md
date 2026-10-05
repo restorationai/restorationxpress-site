@@ -71,6 +71,6 @@ Dry-season fires (roughly November through April) often involve lower ambient hu
 
 ## Service area
 
-RestorationXpress is based in Davie, FL and serves fire damage restoration clients throughout Broward County and the surrounding region, including Fort Lauderdale, Hollywood, Pembroke Pines, Miramar, Weston, Cooper City, Plantation, and Sunrise. The city-specific pages linked from this site go deeper on local housing stock and neighborhood considerations for each area.
+RestorationXpress is based in Davie, FL and serves fire damage restoration clients throughout Broward County and the surrounding region, including [Fort Lauderdale](/service-areas/fort-lauderdale-fl/fire-damage-restoration/), Hollywood, [Pembroke Pines](/service-areas/pembroke-pines-fl/fire-damage-restoration/), Miramar, Weston, [Cooper City](/service-areas/cooper-city-fl/fire-damage-restoration/), Plantation, and Sunrise. The city-specific pages linked from this site go deeper on local housing stock and neighborhood considerations for each area.
 
 If you're standing in a smoke-damaged home and trying to figure out what to do next, call (954) 932-5420. The sooner soot is characterized and contained, the more of your home, and your contents, can be saved. **Call now to begin smoke and soot removal.**

@@ -78,6 +78,6 @@ Davie's housing stock also matters. The area has a high concentration of single-
 
 ## Service area
 
-RestorationXpress is based in Davie and serves homeowners and property managers throughout Broward County, including Fort Lauderdale, Hollywood, Pembroke Pines, Miramar, Cooper City, Weston, Plantation, and Sunrise. Individual service-area pages cover hurricane damage cleanup, tornado damage cleanup, and storm cleanup services for each city, all backed by the same process described here.
+RestorationXpress is based in Davie and serves homeowners and property managers throughout Broward County, including [Fort Lauderdale](/service-areas/fort-lauderdale-fl/storm-damage-restoration/), Hollywood, [Pembroke Pines](/service-areas/pembroke-pines-fl/storm-damage-restoration/), Miramar, [Cooper City](/service-areas/cooper-city-fl/storm-damage-restoration/), Weston, Plantation, and Sunrise. Individual service-area pages cover hurricane damage cleanup, tornado damage cleanup, and storm cleanup services for each city, all backed by the same process described here.
 
 If your property took storm damage, call RestorationXpress at **(954) 932-5420** to schedule your storm damage assessment and get a written scope before any work begins.

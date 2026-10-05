@@ -54,11 +54,11 @@ For Category 2 and Category 3 losses, failure to properly classify the water sou
 
 ## Seasonal and regional considerations
 
-Davie and the surrounding Broward County communities sit in one of the most humidity-challenging environments in the continental United States. Ambient outdoor relative humidity regularly exceeds 80% from June through October, the same window that aligns with South Florida's peak storm and hurricane season. When tropical systems push water through roof assemblies, windows, or overwhelmed drainage, outdoor humidity makes structural drying measurably harder. Equipment that would dry a space in three days in a drier climate may require five to six days here without proper sizing. Homes built before the mid-1990s in communities like Davie, Weston, and Pembroke Pines often have older plumbing supply lines and less resilient building envelopes, making them more susceptible to both storm intrusion and internal plumbing failures.
+Davie and the surrounding Broward County communities sit in one of the most humidity-challenging environments in the continental United States. Ambient outdoor relative humidity regularly exceeds 80% from June through October, the same window that aligns with South Florida's peak storm and hurricane season. When tropical systems push water through roof assemblies, windows, or overwhelmed drainage, outdoor humidity makes structural drying measurably harder. Equipment that would dry a space in three days in a drier climate may require five to six days here without proper sizing. Homes built before the mid-1990s in communities like Davie, [Weston](/service-areas/weston-fl/water-damage-restoration/), and [Pembroke Pines](/service-areas/pembroke-pines-fl/water-damage-restoration/) often have older plumbing supply lines and less resilient building envelopes, making them more susceptible to both storm intrusion and internal plumbing failures.
 
 ## Service area
 
-RestorationXpress serves Davie and the surrounding Broward County area, including Weston, Pembroke Pines, Cooper City, Plantation, Fort Lauderdale, Hollywood, and Miramar. Each city-specific service page links back here for the full technical detail on how water damage restoration works, the process is the same regardless of zip code.
+RestorationXpress serves Davie and the surrounding Broward County area, including Weston, Pembroke Pines, Cooper City, Plantation, [Fort Lauderdale](/service-areas/fort-lauderdale-fl/water-damage-restoration/), Hollywood, and Miramar. Each city-specific service page links back here for the full technical detail on how water damage restoration works, the process is the same regardless of zip code.
 
 ---
 

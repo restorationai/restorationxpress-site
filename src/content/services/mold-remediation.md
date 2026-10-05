@@ -57,6 +57,6 @@ Hurricane season introduces another layer of risk. Roof damage, window intrusion
 
 ## Service area
 
-RestorationXpress serves Davie and the surrounding communities throughout Broward County, including Fort Lauderdale, Hollywood, Pembroke Pines, Miramar, Cooper City, Weston, Plantation, and Sunrise. The city combo pages for each area link back to this page for full process detail.
+RestorationXpress serves Davie and the surrounding communities throughout Broward County, including [Fort Lauderdale](/service-areas/fort-lauderdale-fl/mold-remediation/), Hollywood, [Pembroke Pines](/service-areas/pembroke-pines-fl/mold-remediation/), Miramar, [Cooper City](/service-areas/cooper-city-fl/mold-remediation/), Weston, Plantation, and Sunrise. The city combo pages for each area link back to this page for full process detail.
 
 If you're seeing discoloration on walls, smelling musty odors that don't clear with ventilation, or dealing with the aftermath of a water event that wasn't fully dried, call RestorationXpress at **(954) 932-5420** to request an air quality assessment and moisture inspection. The sooner the moisture source and colony extent are mapped, the more contained, and less costly, the remediation scope tends to be.

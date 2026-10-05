@@ -73,6 +73,6 @@ The combination of high ambient humidity and warm year-round temperatures means 
 
 ## Service area
 
-RestorationXpress is based in Davie and provides flood damage restoration throughout Broward County, including Fort Lauderdale, Hollywood, Pembroke Pines, Miramar, Cooper City, Weston, Plantation, and Sunrise. The city-specific pages linked from this one cover local considerations for each area, housing stock, common flood sources, and typical insurance carrier relationships in that market.
+RestorationXpress is based in Davie and provides flood damage restoration throughout Broward County, including [Fort Lauderdale](/service-areas/fort-lauderdale-fl/flood-damage-restoration/), Hollywood, [Pembroke Pines](/service-areas/pembroke-pines-fl/flood-damage-restoration/), Miramar, [Cooper City](/service-areas/cooper-city-fl/flood-damage-restoration/), Weston, Plantation, and Sunrise. The city-specific pages linked from this one cover local considerations for each area, housing stock, common flood sources, and typical insurance carrier relationships in that market.
 
 If your property has standing water or you're seeing the early signs of flood damage, soft flooring, damp baseboards, a musty smell that wasn't there before the last rain, call RestorationXpress at **(954) 932-5420** to schedule your moisture assessment and get a written scope before the damage has time to compound.
