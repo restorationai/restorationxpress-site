@@ -45,7 +45,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "134",
+  gbpReviewCount: "135",
   gbpReviews: [
     { author: "Ania", rating: 5, text: "Chris and Shadi did a great job at our place. Thank you", when: "October 2026" },
     { author: "Patricia", rating: 5, text: "The company provided me with not only excellent service but also personalized attention—going far beyond a simple, one-off interaction! I am grateful for their help and support in resolving the issues caused by the water accident in my home.", when: "September 2026" },
