@@ -48,7 +48,7 @@ The decision comes down to the water's category and how long the material was sa
 
 Drywall below the waterline typically comes out if it was submerged or wicking for more than a day or two, since wet gypsum board holds moisture a dehumidifier can't fully pull out and provides a food source for mold. Baseboards almost always come off, since they trap water behind them even after the visible surface looks dry. Solid hardwood often has to be removed and replaced if it cupped; engineered flooring and tile usually survive if dried quickly. Insulation in exterior walls is rarely salvageable once wet; it holds water and loses its R-value.
 
-This is also where the IICRC's [S500 water damage restoration standard](https://www.iicrc.org/page/IICRCS500) matters in practice: it's the industry reference crews use to classify the water and decide drying versus removal, rather than guessing room by room.
+This is also where the IICRC's [S500 water damage restoration standard](https://iicrc.org/s500/) matters in practice: it's the industry reference crews use to classify the water and decide drying versus removal, rather than guessing room by room.
 
 ## Who do you call for burst pipe cleanup?
 
