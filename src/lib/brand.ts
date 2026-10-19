@@ -45,7 +45,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "137",
+  gbpReviewCount: "136",
   gbpReviews: [
     { author: "Sharon", rating: 5, text: "Restoration Xpress was incredible!! They were quick to answer my call and arrived promptly to set everything up. Recommended 100%!!!", when: "October 2026" },
     { author: "Alec", rating: 5, text: "Professional and friendly, the most reliable people.", when: "October 2026" },
