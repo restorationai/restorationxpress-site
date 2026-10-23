@@ -45,14 +45,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "4.9",
-  gbpReviewCount: "136",
+  gbpReviewCount: "138",
   gbpReviews: [
+    { author: "Blue", rating: 5, text: "If I could use this company to handle all my projects, I would lol. Their customer service and follow through is unmatched. I had concerns of mold, made outreach, and received a free consultation the same day. Jaziel is amazing and so easy to work with, she assisted with coordinating the…", when: "October 2026" },
     { author: "Sharon", rating: 5, text: "Restoration Xpress was incredible!! They were quick to answer my call and arrived promptly to set everything up. Recommended 100%!!!", when: "October 2026" },
     { author: "Alec", rating: 5, text: "Professional and friendly, the most reliable people.", when: "October 2026" },
     { author: "Ivonne", rating: 5, text: "Shady & Chris did a great job with the molding restoration in my apartment. I recommend them", when: "October 2026" },
     { author: "Ania", rating: 5, text: "Chris and Shadi did a great job at our place. Thank you", when: "October 2026" },
     { author: "Patricia", rating: 5, text: "The company provided me with not only excellent service but also personalized attention—going far beyond a simple, one-off interaction! I am grateful for their help and support in resolving the issues caused by the water accident in my home.", when: "September 2026" },
-    { author: "Gisela", rating: 5, text: "Great work and excelent customer service!!!", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Davie, FL.",
   ctaLabel: "24/7 Emergency Line",
