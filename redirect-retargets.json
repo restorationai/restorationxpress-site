@@ -1,0 +1,116 @@
+{
+ "/service-areas/aventura-fl/water-cleanup": {
+  "planned": "/service-areas/aventura-fl/emergency-water-removal/",
+  "now": "/service-areas/aventura-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/cooper-city-fl/water-cleanup": {
+  "planned": "/service-areas/cooper-city-fl/emergency-water-removal/",
+  "now": "/service-areas/cooper-city-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/country-club-fl/water-cleanup": {
+  "planned": "/service-areas/country-club-fl/emergency-water-removal/",
+  "now": "/service-areas/country-club-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/dania-beach-fl/water-cleanup": {
+  "planned": "/service-areas/dania-beach-fl/emergency-water-removal/",
+  "now": "/service-areas/dania-beach-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/fort-lauderdale-fl/water-cleanup": {
+  "planned": "/service-areas/fort-lauderdale-fl/emergency-water-removal/",
+  "now": "/service-areas/fort-lauderdale-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hallandale-beach-fl/water-cleanup": {
+  "planned": "/service-areas/hallandale-beach-fl/emergency-water-removal/",
+  "now": "/service-areas/hallandale-beach-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/hollywood-fl/water-cleanup": {
+  "planned": "/service-areas/hollywood-fl/emergency-water-removal/",
+  "now": "/service-areas/hollywood-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lauderdale-lakes-fl/water-cleanup": {
+  "planned": "/service-areas/lauderdale-lakes-fl/emergency-water-removal/",
+  "now": "/service-areas/lauderdale-lakes-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/lauderhill-fl/water-cleanup": {
+  "planned": "/service-areas/lauderhill-fl/emergency-water-removal/",
+  "now": "/service-areas/lauderhill-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/miami-gardens-fl/water-cleanup": {
+  "planned": "/service-areas/miami-gardens-fl/emergency-water-removal/",
+  "now": "/service-areas/miami-gardens-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/miramar-fl/water-cleanup": {
+  "planned": "/service-areas/miramar-fl/emergency-water-removal/",
+  "now": "/service-areas/miramar-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/oakland-park-fl/water-cleanup": {
+  "planned": "/service-areas/oakland-park-fl/emergency-water-removal/",
+  "now": "/service-areas/oakland-park-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/pembroke-pines-fl/water-cleanup": {
+  "planned": "/service-areas/pembroke-pines-fl/emergency-water-removal/",
+  "now": "/service-areas/pembroke-pines-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/plantation-fl/water-cleanup": {
+  "planned": "/service-areas/plantation-fl/emergency-water-removal/",
+  "now": "/service-areas/plantation-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/southwest-ranches-fl/water-cleanup": {
+  "planned": "/service-areas/southwest-ranches-fl/emergency-water-removal/",
+  "now": "/service-areas/southwest-ranches-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/sunrise-fl/water-cleanup": {
+  "planned": "/service-areas/sunrise-fl/emergency-water-removal/",
+  "now": "/service-areas/sunrise-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/west-park-fl/water-cleanup": {
+  "planned": "/service-areas/west-park-fl/emergency-water-removal/",
+  "now": "/service-areas/west-park-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/weston-fl/water-cleanup": {
+  "planned": "/service-areas/weston-fl/emergency-water-removal/",
+  "now": "/service-areas/weston-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ },
+ "/service-areas/wilton-manors-fl/water-cleanup": {
+  "planned": "/service-areas/wilton-manors-fl/emergency-water-removal/",
+  "now": "/service-areas/wilton-manors-fl/water-damage-restoration/",
+  "why": "dead-target heal (backfill)",
+  "at": "2026-10-03"
+ }
+}
