@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | RestorationXpress  Restoration"
+title: "Service Areas | RestorationXpress"
 h1: "Areas We Serve"
 meta_description: "RestorationXpress provides restoration services across Davie and the surrounding region. Find your city."
 primary_keyword: "restorationxpress  service areas"
