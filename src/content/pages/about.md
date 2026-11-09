@@ -10,7 +10,7 @@ priority: 2.5
 plan_hash: "5f45f533b0bcd9ec"
 generated_at: "2026-07-23T05:52:18.676720+00:00"
 manual_override: false
-internal_links: ["/", "/services/", "/contact/"]
+internal_links: ["/", "/services/", "/contact/", "/services/fire-damage-restoration/", "/services/flood-damage-restoration/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
 faq: [{"question": "How long has RestorationXpress been in business?", "answer": "RestorationXpress has been operating in the South Florida market for a number of years, with roots in Davie, FL. For specific details about our history, feel free to call us at (954) 932-5420 and speak with someone directly."}, {"question": "What areas does RestorationXpress serve?", "answer": "Our primary service area covers Broward County, including Davie, Fort Lauderdale, Hollywood, Pembroke Pines, Miramar, Cooper City, and Weston. We also take on projects in parts of Miami-Dade and Palm Beach counties. If you're unsure whether we cover your location, give us a call and we'll let you know quickly."}, {"question": "Is RestorationXpress certified to handle mold and water damage work?", "answer": "We follow IICRC industry standards for water damage mitigation and drying, which are the benchmarks most insurance carriers and building inspectors reference. For work in pre-1978 homes where lead paint may be present, we adhere to the applicable federal requirements for containment and safe handling. If you have questions about credentials relevant to your specific job, we're happy to walk through that with you before any work begins."}]
 rendered: true
