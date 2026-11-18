@@ -58,7 +58,7 @@ PuroClean of Davie, located at 4380 Oakes Rd, holds a 5.0-star Google rating fro
 
 | Company | Google Rating | Reviews | 24/7 Emergency | |
 |---|---|---|---|---|
-| RestorationXpress | 4.9 | 138 | Yes | Not stated |
+| RestorationXpress | 4.9 | 143 | Yes | Not stated |
 | Certified Mold Free Corp | 4.9 | 130 | Not listed | Not listed |
 | Inovec Restoration & Construction | 5.0 | 58 | Not listed | Not listed |
 | PuroClean of Davie | 5.0 | 56 | Not listed | Not listed |

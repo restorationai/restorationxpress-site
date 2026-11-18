@@ -76,10 +76,10 @@ Inovec Restoration & Construction holds a 5.0-star rating across 53 Google revie
 
 | Company | Google Rating | Reviews | Davie-Based | IICRC Certified |
 |---|---|---|---|---|
-| RestorationXpress | 4.9 | 132 | Yes | - |
-| PuroClean of Davie | 5.0 | 52 | Yes | - |
-| SERVPRO of East Davie/Cooper City | 4.9 | 89 | - | - |
-| Inovec Restoration & Construction | 5.0 | 53 | - | - |
+| RestorationXpress | 4.9 | 143 | Yes | Not listed |
+| PuroClean of Davie | 5.0 | 52 | Yes | Not listed |
+| SERVPRO of East Davie/Cooper City | 4.9 | 89 | Not listed | Not listed |
+| Inovec Restoration & Construction | 5.0 | 53 | Not listed | Not listed |
 
 *Certification and location details for competitors are based on publicly available information. Confirm current credentials directly with each company.*
 
