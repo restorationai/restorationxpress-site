@@ -28,6 +28,11 @@ export const brand = {
   foundedYear: "2011",
   primaryCity: "Davie",
   primaryState: "FL",
+  // SERVICE REGION (Santino 2026-11-19): multi-metro clients name the region
+  // on every region-wide surface (see src/lib/region.ts); city pages and the
+  // address/NAP keep the city. Empty = one-metro client, city wording.
+  serviceRegion: "Davie, FL & Broward County",
+  serviceRegionDetail: "Plantation, Hollywood, Pembroke Pines, Fort Lauderdale, Sunrise, Miramar, Weston",
   streetAddress: "4700 SW 51 ST SUIT 205 DAVIE FL33314 ",
   postalCode: "33314",
   lat: "26.0628665",
