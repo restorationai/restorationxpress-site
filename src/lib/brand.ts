@@ -9,8 +9,8 @@ export const brand = {
   legalName: "RestorationXpress ",
   domain: "restorationxpress.com",
   canonicalUrl: "https://restorationxpress.com",
-  phone: "(954) 932-5420",
-  phoneRaw: "+19549325420",
+  phone: "(954) 964-6471",
+  phoneRaw: "+19549646471",
   // Sitewide call-tracking display number (DNI — see BaseLayout).
   // Schema/NAP keep the canonical number above.
   trackingPhone: "(954) 932-5420",
