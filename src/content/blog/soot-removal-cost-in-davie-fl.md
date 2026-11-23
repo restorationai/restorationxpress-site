@@ -77,7 +77,7 @@ Call a professional as soon as the fire department clears the property, because 
 
 Wiping soot with a household rag or all-purpose cleaner usually smears it deeper into paint and drywall instead of lifting it, and it does nothing for odor trapped in your HVAC system or insulation. For more on why DIY odor fixes tend to fail, see [how professionals remove smoke odor](/blog/smoke-odor-removal-techniques/). If the fire also caused structural damage like burned studs or a compromised roof, you're looking at a larger rebuild, and the [fire damage restoration cost guide](/blog/fire-damage-restoration-cost/) breaks down those numbers separately.
 
-A written scope that separates cleaning, sealing, contents, and odor treatment line by line protects both your budget and your insurance claim. That's how [this Davie-based restoration team](/) prices every soot and smoke job: scope first, work second. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) for a same-day assessment anywhere in Broward County.
+A written scope that separates cleaning, sealing, contents, and odor treatment line by line protects both your budget and your insurance claim. That's how [this Davie-based restoration team](/) prices every soot and smoke job: scope first, work second. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) for a same-day assessment anywhere in Broward County.
 
 ---
 

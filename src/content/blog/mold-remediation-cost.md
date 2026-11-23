@@ -84,4 +84,4 @@ If you're looking at a quote and not sure whether it's reasonable for the scope 
 
 RestorationXpress is a Florida DBPR-licensed mold remediation company (license #1057) serving Davie and Broward County since 2011. The team holds a 4.9 rating across 134 Google reviews and handles water damage, fire damage, mold remediation, storm damage, flood damage, and smoke damage restoration across Davie, Fort Lauderdale, Hollywood, Plantation, and surrounding communities.
 
-**Need help now?** [Call RestorationXpress at (954) 932-5420](tel:+19549325420).
+**Need help now?** [Call RestorationXpress at (954) 964-6471](tel:+19549646471).

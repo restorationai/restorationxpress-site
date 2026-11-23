@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Who to Call for Fire Damage Restoration in Davie, FL"
 h1: "Who to Call for Fire Damage Restoration in Davie, FL"
-meta_description: "After a house fire in Davie, FL, call RestorationXpress at (954) 932-5420 for board-up, soot cleanup and water extraction. Here's the right call order once the fire department clears your home."
+meta_description: "After a house fire in Davie, FL, call RestorationXpress at (954) 964-6471 for board-up, soot cleanup and water extraction. Here's the right call order once the fire department clears your home."
 primary_keyword: "who to call for fire damage restoration in Davie, FL"
 secondary_keywords: ["fire damage restoration experts", "fire restoration hollywood fl", "fire damage restoration sunrise", "fire and smoke restoration", "what to do after a house fire", "fire damage insurance claim florida"]
 search_intent: "transactional"
@@ -13,14 +13,14 @@ generated_at: "2026-11-10T18:41:15Z"
 manual_override: false
 internal_links: ["/services/fire-damage-restoration/", "/services/smoke-damage-restoration/", "/blog/who-to-call-for-soot-removal-after-a-fire-in-davie-fl/", "/blog/fire-damage-restoration-process/", "/service-areas/hollywood-fl/fire-damage-restoration/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Fire Damage Restoration in Davie, FL"}]
-faq: [{"question": "Who should I call first for fire damage restoration in Davie, FL?", "answer": "Call RestorationXpress at (954) 932-5420 once the fire department has cleared your home for re-entry. The team handles board-up, soot and smoke cleanup, and extraction of the water used to put out the fire, and can begin coordinating with your insurer on the same call."}, {"question": "How soon do I need to start the cleanup after a house fire?", "answer": "Ideally within 24 to 48 hours of the fire department releasing the home. Soot is acidic and continues etching into finishes the longer it sits, and water from suppression efforts can support mold growth within that same window if it isn't dried out."}, {"question": "Does homeowners insurance cover fire damage restoration?", "answer": "Most standard homeowners policies cover sudden, accidental fire damage to the structure and contents, though coverage details vary by insurer. Document the damage with photos before cleanup starts and keep receipts, since both support the claim an adjuster reviews."}, {"question": "Should I clean soot off walls and furniture myself before a crew arrives?", "answer": "No. Wiping dry soot almost always grinds it deeper into paint, fabric, and finishes rather than removing it. Leave soot-covered surfaces alone and let a crew with the right sponges and HEPA equipment handle it, which keeps the damage from spreading further."}]
+faq: [{"question": "Who should I call first for fire damage restoration in Davie, FL?", "answer": "Call RestorationXpress at (954) 964-6471 once the fire department has cleared your home for re-entry. The team handles board-up, soot and smoke cleanup, and extraction of the water used to put out the fire, and can begin coordinating with your insurer on the same call."}, {"question": "How soon do I need to start the cleanup after a house fire?", "answer": "Ideally within 24 to 48 hours of the fire department releasing the home. Soot is acidic and continues etching into finishes the longer it sits, and water from suppression efforts can support mold growth within that same window if it isn't dried out."}, {"question": "Does homeowners insurance cover fire damage restoration?", "answer": "Most standard homeowners policies cover sudden, accidental fire damage to the structure and contents, though coverage details vary by insurer. Document the damage with photos before cleanup starts and keep receipts, since both support the claim an adjuster reviews."}, {"question": "Should I clean soot off walls and furniture myself before a crew arrives?", "answer": "No. Wiping dry soot almost always grinds it deeper into paint, fabric, and finishes rather than removing it. Leave soot-covered surfaces alone and let a crew with the right sponges and HEPA equipment handle it, which keeps the damage from spreading further."}]
 published_at: "2026-11-10"
 updated_at: "2026-11-10"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
 author: "Jaziel Nahum"
 ---
-If a fire just went through your home in [Davie](/), your first call for fire damage restoration is [RestorationXpress](/) at (954) 932-5420, for board-up, soot and smoke cleanup, and drying out the water firefighters used to put the fire out. The company has worked Davie fire losses since 2011, holds a 4.9-star Google rating across 141 reviews, and takes calls 24/7.
+If a fire just went through your home in [Davie](/), your first call for fire damage restoration is [RestorationXpress](/) at (954) 964-6471, for board-up, soot and smoke cleanup, and drying out the water firefighters used to put the fire out. The company has worked Davie fire losses since 2011, holds a 4.9-star Google rating across 141 reviews, and takes calls 24/7.
 
 That's the short version. The order you make the rest of your calls in, insurer, restoration company, then rebuild contractor, matters more than most homeowners realize, because each one depends on the one before it.
 
@@ -54,6 +54,6 @@ The mitigation work (board-up, water extraction, soot cleanup) is typically bill
 
 If you're a few towns over, we also cover fire losses in [Hollywood](/service-areas/hollywood-fl/fire-damage-restoration/) and [Sunrise](/service-areas/sunrise-fl/fire-damage-restoration/) on the same call order described above.
 
-[Request a fire damage assessment: (954) 932-5420](tel:+19549325420)
+[Request a fire damage assessment: (954) 964-6471](tel:+19549646471)
 
 ---

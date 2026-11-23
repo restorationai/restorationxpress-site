@@ -74,7 +74,7 @@ The process starts with a moisture assessment, moves into extraction and drying,
 
 If the leak came from the unit above you, the coordination gets more involved since two owners and often two carriers are now part of one claim. Our guide on [who to call for water damage from the condo above](/blog/who-to-call-for-water-damage-from-condo-above-in-davie-fl/) covers that scenario specifically.
 
-If you're standing in a Davie condo right now watching a ceiling stain spread, the fastest way to get an accurate number is a free on-site assessment rather than guessing from a table. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) to schedule a moisture assessment and get a written scope before work starts.
+If you're standing in a Davie condo right now watching a ceiling stain spread, the fastest way to get an accurate number is a free on-site assessment rather than guessing from a table. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) to schedule a moisture assessment and get a written scope before work starts.
 
 ---
 

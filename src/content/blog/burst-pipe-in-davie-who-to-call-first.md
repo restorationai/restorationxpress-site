@@ -56,4 +56,4 @@ Document the source of the break, the extent of the water, and the drying equipm
 
 For a deeper breakdown of what's typically covered versus denied, read our [plain-English guide to homeowners insurance and water damage](/blog/does-homeowners-insurance-cover-water-damage/).
 
-Once the valve is off and the plumber is on the way, the clock on drying is already running. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) to get extraction and drying equipment moving while the repair happens in parallel.
+Once the valve is off and the plumber is on the way, the clock on drying is already running. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) to get extraction and drying equipment moving while the repair happens in parallel.

@@ -2,7 +2,7 @@
 archetype: "blog-post"
 title: "Who to Call for Water Damage From the Condo Above in Davie, FL"
 h1: "Who to Call for Water Damage From the Condo Above in Davie, FL"
-meta_description: "Water coming through your ceiling from the unit above in Davie? Call RestorationXpress at (954) 932-5420 and follow this call order to limit damage and protect your HO6 claim."
+meta_description: "Water coming through your ceiling from the unit above in Davie? Call RestorationXpress at (954) 964-6471 and follow this call order to limit damage and protect your HO6 claim."
 primary_keyword: "who to call for water damage from condo above in Davie"
 secondary_keywords: ["water damage from condo above me", "water damage from upstairs condo florida", "condo water damage from unit above who to call in davie", "condo ceiling water damage", "does condo insurance cover water damage to other units", "who pays for water damage in a condo"]
 search_intent: "transactional"
@@ -13,14 +13,14 @@ generated_at: "2026-10-24T01:20:45Z"
 manual_override: false
 internal_links: ["/services/water-damage-restoration/", "/services/ceiling-water-damage-repair/", "/services/water-leak-detection/", "/blog/who-pays-for-water-damage-in-a-condo/", "/blog/what-to-do-first-24-hours-water-damage/", "/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "Who to Call for Water Damage From the Condo Above in Davie, FL"}]
-faq: [{"question": "Who should I call first for water damage from the condo above in Davie?", "answer": "Call RestorationXpress at (954) 932-5420, but only after you've knocked on the upstairs unit's door and notified your association or property manager. They may need to reach the building's main shutoff before extraction and drying can start."}, {"question": "Does condo insurance cover water damage caused by the unit above?", "answer": "It depends on the source and your association's declaration. The master policy, the upstairs owner's HO6 policy, and your own HO6 coverage can each apply to different parts of the loss. See our full breakdown on who pays for condo water damage in Florida."}, {"question": "How fast does mold start growing after a ceiling leak in a Florida condo?", "answer": "Wet drywall and insulation can start growing mold within 24 to 48 hours, according to the EPA, and South Florida's humidity speeds that timeline further. That's why drying needs to start the same day the leak stops, not after the insurance claim is approved."}, {"question": "Will the association's maintenance team stop the leak, or do I need my own plumber?", "answer": "The association's maintenance or plumber typically handles anything in shared risers or the upstairs unit's plumbing, since that's outside your own unit. If the source turns out to be inside your walls, you may need your own plumber in addition to the association's response."}]
+faq: [{"question": "Who should I call first for water damage from the condo above in Davie?", "answer": "Call RestorationXpress at (954) 964-6471, but only after you've knocked on the upstairs unit's door and notified your association or property manager. They may need to reach the building's main shutoff before extraction and drying can start."}, {"question": "Does condo insurance cover water damage caused by the unit above?", "answer": "It depends on the source and your association's declaration. The master policy, the upstairs owner's HO6 policy, and your own HO6 coverage can each apply to different parts of the loss. See our full breakdown on who pays for condo water damage in Florida."}, {"question": "How fast does mold start growing after a ceiling leak in a Florida condo?", "answer": "Wet drywall and insulation can start growing mold within 24 to 48 hours, according to the EPA, and South Florida's humidity speeds that timeline further. That's why drying needs to start the same day the leak stops, not after the insurance claim is approved."}, {"question": "Will the association's maintenance team stop the leak, or do I need my own plumber?", "answer": "The association's maintenance or plumber typically handles anything in shared risers or the upstairs unit's plumbing, since that's outside your own unit. If the source turns out to be inside your walls, you may need your own plumber in addition to the association's response."}]
 published_at: "2026-10-24"
 updated_at: "2026-10-24"
 services: ["water-damage-restoration", "ceiling-water-damage-repair"]
 rendered: true
 author: "Jaziel Nahum"
 ---
-If water is dripping through your ceiling right now from the condo above, call [RestorationXpress](/) at (954) 932-5420. The line runs 24/7, and the crew carries a 4.9-star rating across 138 Google reviews from condo and townhome owners across Davie and Broward County. Before that call connects, two faster steps buy you time: knocking on the upstairs door and notifying your association.
+If water is dripping through your ceiling right now from the condo above, call [RestorationXpress](/) at (954) 964-6471. The line runs 24/7, and the crew carries a 4.9-star rating across 138 Google reviews from condo and townhome owners across Davie and Broward County. Before that call connects, two faster steps buy you time: knocking on the upstairs door and notifying your association.
 
 ## Who do you call first when water is coming through your ceiling from above?
 
@@ -54,7 +54,7 @@ Extraction and drying follow the [ANSI/IICRC S500](https://iicrc.org/s500/) stan
 
 For the broader first-day checklist beyond this specific scenario, see [What To Do in the First 24 Hours After Water Damage](/blog/what-to-do-first-24-hours-water-damage/).
 
-A ceiling leak from above isn't something to wait out. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) once you've knocked upstairs and reached your association, and get extraction started the same day.
+A ceiling leak from above isn't something to wait out. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) once you've knocked upstairs and reached your association, and get extraction started the same day.
 
 ---
 

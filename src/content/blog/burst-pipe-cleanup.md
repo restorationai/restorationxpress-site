@@ -60,7 +60,7 @@ If you're closer to the coast, our [Fort Lauderdale water damage restoration pag
 
 If water is still actively drying in your home right now, the next right move is getting a moisture assessment started today, not waiting to see if it "airs out" on its own. A same-day assessment gets equipment running sooner, and it gives you a written moisture log that insurance adjusters actually want to see.
 
-[Call RestorationXpress at (954) 932-5420](tel:+19549325420) to schedule a same-day assessment, or request a water damage estimate through our [contact page](/contact/).
+[Call RestorationXpress at (954) 964-6471](tel:+19549646471) to schedule a same-day assessment, or request a water damage estimate through our [contact page](/contact/).
 
 Most burst pipe cleanups that drag on for weeks got there because drying stopped too early or no one ever confirmed the wall cavities were actually dry. A structured sequence, extraction, mapping, selective demo, monitored drying, clearance testing, is what keeps a pipe break from becoming a [mold remediation](/services/mold-remediation/) job six weeks later.
 

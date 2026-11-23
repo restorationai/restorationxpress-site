@@ -88,7 +88,7 @@ For the full breakdown of what happens at each stage and roughly how long it tak
 
 A fire damage restoration crew should get the call before a general contractor does, because the first 24 to 48 hours determine whether smoke odor and secondary water damage become permanent problems instead of a clean-up job.
 
-A [Davie-based restoration team](/) with a 4.9-star rating across 137 Google reviews and a 24/7 line can start the board-up and the insurance-scope documentation the same day, which matters because the longer soot sits on porous materials, the more of them need full replacement instead of cleaning: [Call RestorationXpress at (954) 932-5420](tel:+19549325420).
+A [Davie-based restoration team](/) with a 4.9-star rating across 137 Google reviews and a 24/7 line can start the board-up and the insurance-scope documentation the same day, which matters because the longer soot sits on porous materials, the more of them need full replacement instead of cleaning: [Call RestorationXpress at (954) 964-6471](tel:+19549646471).
 
 Whatever company handles the work, get the scope in writing before demolition starts and keep every receipt, including for temporary lodging. That paper trail is what turns a disputed insurance line item into an approved one. If you're ready for a documented assessment, [reach out here](/contact/) to get the process started.
 

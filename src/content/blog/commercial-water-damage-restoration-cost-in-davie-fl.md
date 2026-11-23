@@ -76,7 +76,7 @@ If the loss started with water coming down from a unit above, our guide on [cond
 
 Get a written scope of work before anything is demolished, and make sure it specifies the water category, the square footage affected, and the drying equipment being deployed. That scope is what your carrier will compare against the invoice, and it's what protects you if the adjuster has questions later.
 
-If you're dealing with standing water in a Davie office, retail space, or warehouse right now, [call RestorationXpress at (954) 932-5420](tel:+19549325420) to get a technician out and a written scope started before the damage spreads further.
+If you're dealing with standing water in a Davie office, retail space, or warehouse right now, [call RestorationXpress at (954) 964-6471](tel:+19549646471) to get a technician out and a written scope started before the damage spreads further.
 
 Commercial losses move fast, and the businesses that fare best in the claims process are the ones who get documentation started on day one, not after the drywall's already down. That's the difference between a clean reimbursement and a drawn-out dispute with the carrier.
 

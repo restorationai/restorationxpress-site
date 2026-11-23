@@ -82,7 +82,7 @@ Most standard homeowners policies cover mold remediation only when the mold resu
 
 Mold can begin growing on wet materials within 24 to 48 hours, according to the [EPA](https://www.epa.gov/mold), which is part of why insurers expect prompt mitigation after any water event.
 
-If you're ready to move forward, the fastest next step is a documented moisture assessment rather than guessing at the scope. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) to schedule one.
+If you're ready to move forward, the fastest next step is a documented moisture assessment rather than guessing at the scope. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) to schedule one.
 
 ---
 

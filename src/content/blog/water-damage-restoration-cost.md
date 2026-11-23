@@ -87,4 +87,4 @@ The cost of water damage restoration in Davie comes down to how much water, what
 
 RestorationXpress has served Davie and the surrounding Broward County area since 2011, operating under Florida license #1057. The company holds a 4.9 rating across 135 Google reviews and runs a 24/7 line for water, fire, mold, storm, flood, and smoke damage calls. This post was written with the RestorationXpress team by Jaziel Nahum.
 
-If you're dealing with active water damage, [schedule a water damage assessment](/contact/) or [call RestorationXpress at (954) 932-5420](tel:+19549325420) to get a written scope before any work begins.
+If you're dealing with active water damage, [schedule a water damage assessment](/contact/) or [call RestorationXpress at (954) 964-6471](tel:+19549646471) to get a written scope before any work begins.

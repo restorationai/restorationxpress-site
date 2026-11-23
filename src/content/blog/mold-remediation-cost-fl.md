@@ -79,7 +79,7 @@ For homeowners who want to understand how a mold problem relates to a prior wate
 
 Call a -trained remediation company, not a general handyman or a cleaning service, once growth covers more than about 10 square feet or shows up after any kind of water intrusion. Smaller companies without containment equipment can spread spores to the rest of the house instead of containing them.
 
-RestorationXpress is a Florida restoration company (license #1057) based in Davie, offering 24/7 emergency response across Broward County, including Fort Lauderdale, Plantation, Sunrise, and Cooper City. Homeowners near Robbins Preserve or Tree Tops Park who've found a damp, musty-smelling wall after a recent storm can [call RestorationXpress at (954) 932-5420](tel:+19549325420) to schedule an assessment and get a written scope before any work begins.
+RestorationXpress is a Florida restoration company (license #1057) based in Davie, offering 24/7 emergency response across Broward County, including Fort Lauderdale, Plantation, Sunrise, and Cooper City. Homeowners near Robbins Preserve or Tree Tops Park who've found a damp, musty-smelling wall after a recent storm can [call RestorationXpress at (954) 964-6471](tel:+19549646471) to schedule an assessment and get a written scope before any work begins.
 
 Every mold job is different, and the only accurate price comes from seeing the damage in person. If you want a side-by-side look at local pricing specific to Broward County, our dedicated [Davie mold remediation cost guide](/blog/mold-remediation-cost/) breaks down neighborhood-level factors in more depth, and our post on [black mold vs. regular mold](/blog/black-mold-vs-regular-mold/) helps you figure out what you're actually looking at before you call anyone.
 

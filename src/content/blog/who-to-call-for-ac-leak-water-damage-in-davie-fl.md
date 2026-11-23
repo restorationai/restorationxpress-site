@@ -26,7 +26,7 @@ Maybe you walked into a hallway near Pine Island Ridge and noticed a brown ring 
 
 ## Who do I call first for AC leak water damage in Davie?
 
-Call a water damage restoration company first if drywall, ceiling material, insulation, carpet, or baseboards are already wet, then schedule an HVAC technician separately to repair the leak's source. For AC-related water damage in Davie, call RestorationXpress at (954) 932-5420.
+Call a water damage restoration company first if drywall, ceiling material, insulation, carpet, or baseboards are already wet, then schedule an HVAC technician separately to repair the leak's source. For AC-related water damage in Davie, call RestorationXpress at (954) 964-6471.
 
 The reason for the split is simple: an HVAC tech can clear a clogged condensate line or swap a cracked drain pan, but that doesn't dry out a soaked ceiling cavity or stop mold from colonizing wet insulation. A restoration crew handles extraction, drying, and any ceiling or drywall repair, but doesn't touch the refrigerant lines or the drain system causing the leak. Most Davie homeowners end up needing both calls, usually on the same day.
 
@@ -72,4 +72,4 @@ A sudden event, like a pan cracking outright or a line disconnecting, has a bett
 
 If the ceiling damage is extensive enough to need drywall replacement or a full ceiling section rebuilt, that repair work typically runs through a [ceiling water damage repair](/services/ceiling-water-damage-repair/) scope rather than drying alone. For leaks you can't locate by sight, a [water leak detection](/services/water-leak-detection/) visit can confirm the source and extent before any demolition starts.
 
-Don't wait on a slow drip to decide itself. [Call RestorationXpress at (954) 932-5420](tel:+19549325420) to get the structure assessed and drying started, then get your HVAC tech out to fix what caused it.
+Don't wait on a slow drip to decide itself. [Call RestorationXpress at (954) 964-6471](tel:+19549646471) to get the structure assessed and drying started, then get your HVAC tech out to fix what caused it.

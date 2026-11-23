@@ -26,7 +26,7 @@ If you just walked into your laundry room in Pine Island Ridge or Rolling Hills 
 
 ## Who do I call first when a washing machine floods my house?
 
-Shut off the two hot and cold valves behind the washer, then call a restoration company, not the appliance repair shop, for the flood itself. For washing machine flood damage anywhere in Davie, FL, call RestorationXpress at [(954) 932-5420](tel:+19549325420); the company is (FL #1057), carries -trained crews, runs 24/7, and holds a 4.9 rating across 136 Google reviews.
+Shut off the two hot and cold valves behind the washer, then call a restoration company, not the appliance repair shop, for the flood itself. For washing machine flood damage anywhere in Davie, FL, call RestorationXpress at [(954) 964-6471](tel:+19549646471); the company is (FL #1057), carries -trained crews, runs 24/7, and holds a 4.9 rating across 136 Google reviews.
 
 The repair tech matters too, eventually, but they can't stop water that's already under your flooring. Extraction and drying are time-sensitive: wet drywall and wet carpet pad start growing mold within 24 to 48 hours, according to the [EPA](https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home). Get the water out first, then schedule the machine repair.
 
