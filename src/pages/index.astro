@@ -23,7 +23,7 @@ import { workPairs } from "~/data/work";
 import { regionHeadline, regionSentence } from "~/lib/region";
 
 const entry = await getEntry("pages", "home");
-if (!entry) throw new Error("Missing content: pages/home.md — has Skill 3 rendered yet?");
+if (!entry) throw new Error("Missing content: pages/home.md, has Skill 3 rendered yet?");
 const { Content } = await entry.render();
 const data = entry.data;
 // SERVICE REGION (Santino 2026-11-19): the homepage speaks to the whole
@@ -82,7 +82,7 @@ const faqItems = homeFaq();
 
   <AboutSection imageSrc="/images/team.webp" imageAlt={`${brand.displayName} technician loading a branded service van`}>
     <p>
-      {brand.displayName} serves {brand.primaryCity} and the surrounding {brand.primaryState} area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery — and we answer the phone 24/7, so help is on the way the moment something goes wrong.
+      {brand.displayName} serves {brand.primaryCity} and the surrounding {brand.primaryState} area with professional damage restoration for homes and businesses. From the first emergency call to the final walkthrough, our team manages the entire recovery, and we answer the phone 24/7, so help is on the way the moment something goes wrong.
     </p>
   </AboutSection>
 

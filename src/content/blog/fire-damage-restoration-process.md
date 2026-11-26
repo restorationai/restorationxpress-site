@@ -32,13 +32,13 @@ The period immediately after a fire is controlled is the most consequential wind
 
 In South Florida's humid climate, there's an added urgency: the combination of fire suppression water and Broward County's baseline humidity creates ideal conditions for mold colonization within 24–48 hours. Drying needs to start fast.
 
-## Phase 1 – Assessment and Scope of Loss
+## Phase 1: Assessment and Scope of Loss
 
 Before any cleaning or demolition begins, a trained technician walks the entire property to map the damage. This isn't a quick visual scan, it includes moisture readings in walls and subfloors (suppression water migrates farther than it looks), air quality sampling in some cases, and a category assessment of what can be restored versus what needs to be replaced.
 
 The scope of loss document that comes out of this assessment drives everything: the insurance estimate, the materials order, the subcontractor schedule. A thorough assessment at this stage prevents expensive change orders later when a contractor discovers wet framing behind drywall that wasn't accounted for.
 
-## Phase 2 – Water Extraction and Structural Drying
+## Phase 2: Water Extraction and Structural Drying
 
 This surprises most homeowners: a significant portion of early fire restoration work is actually [water damage restoration](/services/water-damage-restoration/). Firefighting hoses deliver hundreds of gallons per minute. That water saturates flooring, wicks into wall cavities, and pools in basements or crawl spaces.
 
@@ -46,7 +46,7 @@ Extraction comes first, truck-mounted vacuums pull standing water from hard surf
 
 Skipping or rushing this phase is one of the most common reasons fire-damaged homes develop mold problems months after the restoration appears complete.
 
-## Phase 3 – Smoke and Soot Removal
+## Phase 3: Smoke and Soot Removal
 
 This is the phase most people picture when they think about fire restoration, and it's more technically involved than scrubbing walls.
 
@@ -62,7 +62,7 @@ The process typically includes:
 
 Smoke odor that isn't fully addressed at this stage will resurface, especially in Florida's heat, which accelerates off-gassing from affected materials.
 
-## Phase 4 – Demolition and Structural Repair
+## Phase 4: Demolition and Structural Repair
 
 Materials that are too contaminated or structurally compromised to restore get removed in a controlled demolition. This includes charred framing, melted wiring, smoke-saturated insulation, and any drywall that absorbed suppression water or soot beyond cleaning thresholds.
 
